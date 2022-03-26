@@ -1,9 +1,8 @@
-// 26-03-2022
-// https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln#variables-amp-reactivity
-// My next step: Bind Forwarding
-//
-
 <script lang="ts">
+	// 26-03-2022
+	// https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln#variables-amp-reactivity
+	// My next step: Bind Forwarding
+	//
 	import Suggestion from './Suggestion.svelte'
 	import { onMount } from 'svelte'
 	
