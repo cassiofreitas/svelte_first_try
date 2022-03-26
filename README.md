@@ -1,3 +1,14 @@
+# What is it?
+
+This is my first svelte app.
+
+Thanks to 
+[Emmanuil B.](https://dev.to/emmanuilsb) for the article [Stop Overcomplicating Web Development - Try Svelte](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
+
+Below, you can read the original README.md from the Svelte itself (automatic generated).
+
+---
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
