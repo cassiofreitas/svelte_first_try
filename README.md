@@ -1,6 +1,8 @@
-# What is it?
+# What is this?
 
 This is my first svelte app.
+
+You can access it at my [Cloudflare Pages](https://sveltefirsttry.cassiofreitas.online/) for this project. 🙂
 
 Thanks to 
 [Emmanuil B.](https://dev.to/emmanuilsb) for the article [Stop Overcomplicating Web Development - Try Svelte](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
